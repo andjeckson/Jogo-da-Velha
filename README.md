@@ -1,5 +1,8 @@
 # Jogo da Velha
 
+<img src="assets/img/Logo.jpg">
+
+
 **Jogo da Velha simples e fácil de 
 jogar.**
 
