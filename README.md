@@ -1,6 +1,6 @@
 # Jogo da Velha
 
-<img src="assets/img/Logo.jpg">
+<img src="assets/img/Logo.jpg" height="40" width="40">
 
 
 **Jogo da Velha simples e fácil de 
