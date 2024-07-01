@@ -309,13 +309,9 @@ var JogoDaVelha = (function(){
          return game
          
 })()
-
-
-window.addEventListener('DOMContentLoaded', ()=>{
-    setTimeout(()=>{
-       let telaDeAbertura = document.querySelector('.abertura')
+  let telaDeAbertura = document.querySelector('.abertura')
+      telaDeAbertura.addEventListener('animationend',()=>{
            telaDeAbertura.remove()
-        JogoDaVelha.iniciar()
-    }, 2000)
-})
+           JogoDaVelha.iniciar()
+    })
 
